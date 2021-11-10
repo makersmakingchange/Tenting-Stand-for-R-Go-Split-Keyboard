@@ -17,7 +17,7 @@ The user can move the legs to whichever angle is best suited to them using the t
 
  - 4x - 4" cable ties
  - 1x  - Sheet of Adhesive-Backed Craft Foam
- - 
-#Build Instructions
+
+# Build Instructions
 
 This device consists of several 3D printed components, zip ties, and a sheet of craft foam. Alternatively, some other non-slip sheet of material can be used in place of the craft foam. All STL’s and documentation can be found in the downloadable maker files in the GitHub Repository.
