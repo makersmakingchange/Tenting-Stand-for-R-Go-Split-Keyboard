@@ -1,4 +1,4 @@
-# Tenting-Stand-for-R-Go-Split-Keyboard
+# Tenting Stand for R Go Split Keyboard
 A low profile stand that allows for varying the angle of the R-Go Split Keyboard.
 
 The Tenting Stand is a fully 3D printed device that allows an R-Go Split Break Ergonomic Keyboard to be supported at 5 different tenting angles. A tenting angle can help reduce pronation of the forearm and improve ergonomics. Using this stand, the user can elevate their keyboard at a 0, 5, 10, 14, or 15-degree angle.
